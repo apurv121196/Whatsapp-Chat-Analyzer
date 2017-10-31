@@ -1,1 +1,1 @@
-This is a swimple python project which aims at analysing various features of a particular whatsapp chat, such as the most active user, most busy time period, and messages per user in case of group chats. The project uses basic python and matplotlib to achieve the goal.
+This is a simple python project which aims at analysing various features of a particular whatsapp chat, such as the most active user, most busy time period, and messages per user in case of group chats. The project uses basic python and matplotlib to achieve the goal.
